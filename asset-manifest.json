@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dongbu/static/css/main.f9fe3fd5.css",
-    "main.js": "/dongbu/static/js/main.2d92d8e2.js",
+    "main.js": "/dongbu/static/js/main.f665a365.js",
     "index.html": "/dongbu/index.html",
     "main.f9fe3fd5.css.map": "/dongbu/static/css/main.f9fe3fd5.css.map",
-    "main.2d92d8e2.js.map": "/dongbu/static/js/main.2d92d8e2.js.map"
+    "main.f665a365.js.map": "/dongbu/static/js/main.f665a365.js.map"
   },
   "entrypoints": [
     "static/css/main.f9fe3fd5.css",
-    "static/js/main.2d92d8e2.js"
+    "static/js/main.f665a365.js"
   ]
 }
